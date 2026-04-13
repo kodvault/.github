@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kodvault/.github/main/profile/logo.png" width="140" alt="Kod Vault Logo"/>
+  <img src="https://raw.githubusercontent.com/kodvault/.github/main/profile/2" width="140" alt="Kod Vault Logo"/>
 </p>
 
 <h1 align="center">Kod Vault</h1>
@@ -44,17 +44,7 @@ Explore our repositories to see real-world implementations:
 
 - Core APIs  
 - Encryption services  
-- Infrastructure pipelines  
-- Integration systems  
-
----
-
-## Engineering Principles
-
-- Clean Architecture  
-- Modular Design  
-- Secure Coding Practices  
-- Automation First  
+- Integration systems   
 
 --- 
 
