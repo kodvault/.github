@@ -1,41 +1,98 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/kodvault/.github/main/profile/logo.png" width="140" alt="Kod Vault Logo"/>
 </p>
-<h1 align="center">Kod Vault</h1>
-<p align="center">
-  <strong>Built on Core. Secured by Design.</strong>
-</p>
+<h1 align="center">InovaStack</h1>
+
+# InovaStack
+
+Building modern digital platforms and scalable software systems.
+
+---
 
 ## About
 
-Kod Vault is focused on building **secure, scalable, and production-grade systems**.
+InovaStack is a technology-focused organization dedicated to building modern applications, scalable platforms, and reliable digital solutions.
 
-We engineer backend platforms, security-driven architectures, and infrastructure designed to last.
+We focus on software engineering, cloud-native architecture, platform development, automation, and digital transformation across web, mobile, and infrastructure ecosystems.
 
-## Core Expertise
+Our mission is to deliver secure, scalable, and maintainable systems for the modern digital world.
 
-- System Architecture  
-- Security Engineering  
-- Backend Development  
-- DevOps & Infrastructure  
+---
 
-## Philosophy
+## What We Build
 
-At Kod Vault, security is not an afterthought.
+- Web Applications
+- Mobile Applications
+- Cloud-Native Platforms
+- API & System Integrations
+- DevOps & Automation
+- Infrastructure Solutions
+- GovTech Platforms
+- AI-Ready Architectures
 
-Every system is:
-- Designed from strong foundations  
-- Built with secure-by-design principles  
-- Structured for long-term scalability  
+---
 
-## Projects
+## Technology Stack
 
-Explore our repositories to see real-world implementations:
+### Frontend
+- Vue.js
+- Nuxt
+- React
+- Next.js
+- Tailwind CSS
 
-- Core APIs  
-- Encryption services  
-- Integration systems   
+### Backend
+- Laravel
+- Node.js
+- Fastify
 
-<p align="center">
-  Engineering Secure Foundations for Modern Systems
-</p>
+### Mobile
+- Flutter
+
+### Infrastructure & DevOps
+- Docker
+- Kubernetes
+- GitHub Actions
+- Ansible
+- Nginx
+
+### Cloud & Database
+- PostgreSQL
+- MySQL
+- Redis
+- MinIO
+- AWS
+
+---
+
+## Principles
+
+- Build scalable systems
+- Keep architecture maintainable
+- Prioritize security by design
+- Focus on developer experience
+- Automate wherever possible
+- Deliver reliable digital services
+
+---
+
+## Current Focus
+
+- Digital platform engineering
+- Government technology solutions
+- System integration & interoperability
+- Cloud infrastructure modernization
+- AI-ready application architecture
+
+---
+
+## Connect
+
+- GitHub Organization: `inovastackhq`
+- Website: inovastack.com
+
+---
+
+## Motto
+
+> Modern Stack. Smarter Systems.
