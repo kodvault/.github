@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kodvault/.github/main/profile/logo.png" width="140" alt="Kod Vault Logo"/>
+  <img src="https://raw.githubusercontent.com/kodvault/.github/main/profile/inovastack.png" width="140" alt="Kod Vault Logo"/>
 </p>
 <h1 align="center">InovaStack</h1>
 
