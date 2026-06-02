@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/kodvault/.github/main/profile/inovastack_logo.png" width="240" alt="InovaStack Logo"/>
 </p>
-<h1 align="center">InovaStack</h1>
+<h1 align="center">InovaStack</h1> -->
 
 # InovaStack
 
